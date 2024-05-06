@@ -1,19 +1,28 @@
 ---
 tags:
-  - "#daily"
+  - daily_report
 created: {{date}}, {{time}}
 aliases:
+temperature: XX°C
+location: Kyiv, Ukraine
 ---
 
-### {{title}}
+### Morning report ![[titan.gif]]
 
 %%
-	Describe generally day
+	Describe morning report here
 %%
 
-### What I did today
+### Notes ![[phoenix.gif]]
+
+- example note
+
+### Evening report ![[arch_devil.gif]]
 
 %%
-	Describe what you did today
+	Describe evening report here
 %%
 
+### Tasks for today
+
+- [x] example task
